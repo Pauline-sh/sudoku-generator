@@ -1,0 +1,15 @@
+{
+  "name": "sudoku-generator",
+  "version": "1.0.0",
+  "description": "a simple backtracking method to generate valid sudoku starting from random seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sudoku",
+    "backtracking"
+  ],
+  "author": "pauline-sh",
+  "license": "ISC"
+}
